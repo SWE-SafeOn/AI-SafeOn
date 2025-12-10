@@ -98,8 +98,7 @@ We maintain two main CSV datasets (stored under `datasets/esp32-cam/`):
 - `dataset.csv` – Baseline flows (predominantly normal behavior)
 - `attacker.csv` – Flows generated under intentionally abnormal or attack-like scenarios
 
-In total, the dataset contains on the order of **~1,000 flow-level samples**, with a strong class imbalance toward normal traffic. This is characteristic of real-world anomaly detection tasks.
-
+In total, the dataset contains on the order of **38789 flow-level samples**. (Normal: 28286 samples, Abnormal: 10503 samples)
 ### 2. Data Collection Setup
 
 Traffic was collected under the following lab setup:
