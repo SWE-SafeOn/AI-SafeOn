@@ -448,13 +448,3 @@ Going forward, SafeOn can be extended in several directions:
 
 5. **Explainability and transparency**  
    - Improve explanations for why a flow or alert was considered anomalous, bridging the gap between ML outputs and user understanding.
-
----
-
-SafeOn is not a finished commercial product, but a **research-driven prototype**. It demonstrates that:
-
-- With modest hardware,  
-- Using open-source tools,  
-- And with careful integration across the stack,  
-
-we can **reclaim visibility and control over the security of our smart homes**—starting at the router, where all traffic converges.
